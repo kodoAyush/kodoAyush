@@ -78,18 +78,6 @@ int main() {
 
 ---
 
-## 🗺️ My Roadmap
-
-```
-2nd Sem  ▶  C++ Fundamentals + Git basics          ✅ In Progress
-3rd Sem  ▶  DSA (Arrays, LinkedList, Trees, DP)    🔜
-4th Sem  ▶  Web Dev (HTML/CSS/JS) + Python         🔜
-5th Sem  ▶  AI/ML basics + First projects          🔜
-6th Sem  ▶  Internship applications 🎯             🔜
-```
-
----
-
 ## 📬 Connect With Me
 
 <div align="center">
@@ -109,19 +97,5 @@ int main() {
 ![Visitor Count](https://komarev.com/ghpvc/?username=kodoAyush&color=00c9ff&style=flat-square&label=Profile+Views)
 
 </div>
-## Hi there 👋
 
-<!--
-**kodoAyush/kodoAyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
